@@ -1,4 +1,4 @@
-local Luna = loadstring(game:HttpGet("https://paste.ee/r/WSCKThwW", true))()
+local Luna = loadstring(game:HttpGet("https://raw.githubusercontent.com/POCKZADAS/POCKZADAS-HUB/refs/heads/main/POCKZADAS%20HUB%20WORKSPACE)", true))()
 local HttpService = game:GetService("HttpService")
 local configFile = "SterlingHubConfig.json"
 local http = game:GetService("HttpService")
